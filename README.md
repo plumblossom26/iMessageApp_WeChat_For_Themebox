@@ -4,7 +4,10 @@
  <br><br>
 ![参考图](png/参考.png)
 <br>
-<center>（界面随更新、完善和优化可能变化）</center>
+
+<div align="center">
+  （界面随更新、完善和优化可能变化）
+</div>
  <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前该主题项目还有很多需要更加精细的优化，如果你有兴趣和经验愿意共同维护和完善该项目，欢迎联系我。
 
@@ -163,6 +166,7 @@
 发出来的目的也不是因为这份主题多好，只是提供了一个后期所有想要自己 diy 主题的一个参考项目。<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帮助希望自己 diy 主题的人。能够自定义离不开主题插件作者们的 `逆向努力`，也请大家多支持作者的原创主题。
 <br>
 感谢
+<br> 
 插件：
 - Themebox 作者`懒猫`
   
