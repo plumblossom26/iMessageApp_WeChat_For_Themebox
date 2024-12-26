@@ -83,26 +83,26 @@
 ## 3. 02文件夹
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目红包转账气泡背景的制作`PS`项目文件。 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;包含： 
-- 气泡尺寸（800 x 250）
+- 气泡尺寸 `（800 x 250）`
 - 底部圆角卡片背景
 - 自定义背景设计的剪贴蒙版
  <br><br>
-如果你想要`自定义设计红包转账气泡背景`，可基于此项目文件进行初步设计你的个性化转账红包气泡。简单设计完成后进入 Sketch 根据 Sketch 项目文件内的说明批量命名和导出。
+如果你想要`自定义设计红包转账气泡背景`，可基于此项目文件进行初步设计你的个性化转账红包气泡。简单设计完成后进入 `Sketch` 根据 `Sketch` 项目文件内的说明批量命名和导出。
  <br><br>
 若只使用 PS 导出，请确保导出所有以下命名的 png 格式图片：
 （图片已经调整尺寸大小，命名方式直接加 `@3x` 命名，小机型设备会自动缩放） <br><br>
-- ChatRoom_Bubble_HB_Sender@3x （发送方-普通状态）
-- ChatRoom_Bubble_HB_Sender_Dark@3x （发送方-普通状态-深色模式）
-- ChatRoom_Bubble_HB_Sender_Handled@3x （发送方-接收状态）
-- ChatRoom_Bubble_HB_Sender_Handled_Dark@3x （发送方-接受状态-深色模式）
-- ChatRoom_Bubble_HB_Receiver@3x （接收方-普通状态）
-- ChatRoom_Bubble_HB_Receiver_Dark@3x （接收方-普通状态-深色模式）
-- ChatRoom_Bubble_HB_Receiver_Handled@3x （接收方-接收状态）
-- ChatRoom_Bubble_HB_Receiver_Handled_Dark@3x （接收方-接受状态-深色模式）
-- ChatRoom_Bubble_HB_Overtime_Sender@3x （发送方-过期状态）
-- ChatRoom_Bubble_HB_Overtime_Sender_Dark@3x （发送方-过期状态-深色模式）
-- ChatRoom_Bubble_HB_Overtime_Receiver@3x （接受方-过期状态）
-- ChatRoom_Bubble_HB_Overtime_Receiver_Dark@3x （接受方-过期状态-深色模式）
+- `ChatRoom_Bubble_HB_Sender@3x` （发送方-普通状态）
+- `ChatRoom_Bubble_HB_Sender_Dark@3x` （发送方-普通状态-深色模式）
+- `ChatRoom_Bubble_HB_Sender_Handled@3x` （发送方-接收状态）
+- `ChatRoom_Bubble_HB_Sender_Handled_Dark@3x` （发送方-接受状态-深色模式）
+- `ChatRoom_Bubble_HB_Receiver@3x` （接收方-普通状态）
+- `ChatRoom_Bubble_HB_Receiver_Dark@3x` （接收方-普通状态-深色模式）
+- `ChatRoom_Bubble_HB_Receiver_Handled@3x` （接收方-接收状态）
+- `ChatRoom_Bubble_HB_Receiver_Handled_Dark@3x` （接收方-接受状态-深色模式）
+- `ChatRoom_Bubble_HB_Overtime_Sender@3x` （发送方-过期状态）
+- `ChatRoom_Bubble_HB_Overtime_Sender_Dark@3x` （发送方-过期状态-深色模式）
+- `ChatRoom_Bubble_HB_Overtime_Receiver@3x` （接受方-过期状态）
+- `ChatRoom_Bubble_HB_Overtime_Receiver_Dark@3x` （接受方-过期状态-深色模式）
 
 
 
@@ -113,7 +113,7 @@
   <br><br><br>
 
 ## 5. 04文件夹
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作本主题时的辅助 `Python` 脚本文件。可快速提取官方 `WeChat` 包里的 Assets 文件夹的所有文件的图标、文件名、尺寸大小以及帮助你快速将他人的主题包里使用相同图标但命名不同的文件按照图标和文件名统一分类输出为 `excel` 表。
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作本主题时的辅助 `Python` 脚本文件。可快速提取官方 `WeChat` 包里经过解压后的 `Assets` 文件夹的所有文件的图标、文件名、尺寸大小，以及帮助你快速将他人的主题包里使用相同图标但命名不同的文件按照图标和文件名统一分类输出为 `excel` 表。
 
 包含：
  <br>
