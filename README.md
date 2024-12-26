@@ -154,14 +154,15 @@
   即使不会作图，但能够分享命名规则和常见问题的解决方案，一起完善自定义主题文档和该项目。欢迎提交 `PR` 、发起 `issue` 。
   <br>
   欢迎加入维护、完善、更新！
-<img src="png/id.png" alt="示例图片" width="300" height="auto">
+<img src="png/id.png" alt="示例图片" width="200" height="auto">
 <br><br><br>
 
 # 致谢和合作者
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从想到自己完善和优化一份主题开始到基本版本落定耗时三天。<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这期间经历了了解 `Assets` 文件的解包、图标的命名、主题插件的区别、`WeChat` 版本的差异、为什么图标不生效、尺寸适配问题、官方命名和主题插件制作者们的命名方式的区别、熬夜改图、作图、收到群友的帮助、讲解和鼓励等等过程。<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这份主题还存在很多待完善和优化的地方，会不断维护和更新的直到哪天完全不能自定义了。
 发出来的目的也不是因为这份主题多好，只是提供了一个后期所有想要自己 diy 主题的一个参考项目。<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帮助希望自己 diy 主题的人。能够自定义离不开主题插件作者们的 `逆向努力`，也请大家多支持作者的原创主题。
-
+<br>
+感谢
 插件：
 - Themebox 作者`懒猫`
   
