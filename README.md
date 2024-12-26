@@ -42,6 +42,7 @@
 # 转账红包气泡制作计划
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该仓库会不定期更新一些制作的新的红包、转账的气泡封面，欢迎关注。<br>目前已推出和计划制作的封面有：
 - ✅ 京卡银行卡封面
+  <br> <img src="png/HB01.png" alt="示例图片" width="450" height="auto">
 - [ ] 25年春节蛇年封面
 - [ ] MESH黑卡封面
 
