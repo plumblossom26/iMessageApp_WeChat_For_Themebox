@@ -7,8 +7,8 @@
 <center>（界面随时间更新可能完善和优化）</center>
  <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前该主题项目还有很多需要更加精细的优化，如果你有兴趣和经验愿意共同维护和完善该项目，欢迎联系我。
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电报：@aidenyang1
+
+
 
    <br><br><br>
   
