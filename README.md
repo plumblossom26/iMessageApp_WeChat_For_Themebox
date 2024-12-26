@@ -39,12 +39,12 @@
 - [ ] 不拉伸气泡适配
    <br><br><br>
 
-# 转账红包气泡制作计划
+# 转账红包气泡计划
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目会不定期更新一些制作的新的红包、转账的气泡封面，欢迎关注。<br> 目前已推出和计划制作的封面有：
 - ✅ 京卡银行卡封面
   <br> <img src="png/HB01.png" alt="示例图片" width="260" height="auto">
 - [ ] 2025年春节蛇年封面
-- [ ] ·MESH·黑卡封面
+- [ ] `MESH`黑卡封面
 
 <br><br><br>
   
