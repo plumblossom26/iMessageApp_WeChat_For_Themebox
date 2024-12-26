@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 336-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+ <title>ic_chat list_empty</title>
+ <g fill="none" fill-rule="evenodd" id="页面-1" stroke="none" stroke-width="1">
+  <g id="index-message-empty" transform="translate(-156.000000, -435.000000)">
+   <g id="编组-5" transform="translate(0.000000, 240.000000)">
+    <g id="编组-6" transform="translate(119.000000, 195.000000)">
+     <g id="icon" transform="translate(37.000000, 0.000000)">
+      <path d="M0 0h64v64H0z" id="矩形"/>
+      <path d="M32 11.2C38.3181 11.2 44.0435 13.4035 48.1858 16.9843 52.2602 20.5063 54.8 25.3661 54.8 30.7463 54.8 36.1264 52.2602 40.9862 48.1858 44.5082 44.0435 48.089 38.3181 50.2925 32 50.2925 29.2444 50.2925 26.6022 49.8733 24.1543 49.1035v0L16.582 52.7962 17.3823 45.7436C12.4016 42.1708 9.2 36.7876 9.2 30.7463 9.2 25.3661 11.7398 20.5063 15.8142 16.9843 19.9565 13.4035 25.6819 11.2 32 11.2z" id="形状结合" stroke="#000" stroke-opacity=".15" stroke-width="2.4"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
