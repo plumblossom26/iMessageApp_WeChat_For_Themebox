@@ -161,7 +161,7 @@
 - Themebox 作者懒猫
   
 电报：
-- @v 2666
+- @v2666
 - @atdtt
 - 猴劲秋
  <br><br><br> <br><br>
