@@ -157,7 +157,7 @@
   即使不会作图，但能够分享命名规则和常见问题的解决方案，一起完善自定义主题文档和该项目。欢迎提交 `PR` 、发起 `issue` 。
   <br>
   欢迎加入维护、完善、更新！
-<img src="png/id.png" alt="示例图片" width="200" height="auto">
+<div align="center"><img src="png/id.png" alt="示例图片" width="200" height="auto"></div>
 <br><br><br>
 
 # 致谢和合作者
