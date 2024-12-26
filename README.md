@@ -42,7 +42,7 @@
 # 转账红包气泡制作计划
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该仓库会不定期更新一些制作的新的红包、转账的气泡封面，欢迎关注。<br>目前已推出和计划制作的封面有：
 - ✅ 京卡银行卡封面
-  <br> <img src="png/HB01.png" alt="示例图片" width="450" height="auto">
+  <br> <img src="png/HB01.png" alt="示例图片" width="400" height="auto">
 - [ ] 25年春节蛇年封面
 - [ ] MESH黑卡封面
 
@@ -59,13 +59,13 @@
  <br><br><br>
 
 # 其他文件夹
-## 1. 00文件夹
+## 1. 官方Assets文件夹
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`WeChat 8.0.50` 版本的 `Assets` 素材解包文件夹。
   里面涵盖理所有经 `Xcode` 文件编译后的 `Assets` 资源文件。仅供参考，大部分图标的命名方式有由主题插件制作者定义命名，但有部分素材命名方式仍然未变。
   （素材命名方式可能会随着 WeChat 版本和主题插件更新而变化）
 
  <br><br><br>
-## 2. 01文件夹
+## 2. 完整Sketch项目文件
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作该套主题时的 `Sketch`项目完整文件，提供参考和学习。也可以在此项目文件的基础上进行继续制作和完善。提交`PR`或者电报联系我分享你的项目文件。审核通过后此项目将更新。同时致谢和合作者列将表示对你的感谢。
 项目文件包含：
  <br>
@@ -81,7 +81,7 @@
 
  <br><br><br>
  
-## 3. 02文件夹
+## 3. 红包🧧、转账气泡制作
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目红包转账气泡背景的制作`PS`项目文件。 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;包含： 
 - 气泡尺寸 `（800 x 250）`
@@ -108,12 +108,12 @@
 
 
  <br><br><br>
-## 4. 03文件夹
+## 4. 部分素材导出
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目部分制作的素材导出，方便没有`Sketch`的用户在其他主题或者地方使用素材。
  （会不断更新）
   <br><br><br>
 
-## 5. 04文件夹
+## 5. 辅助脚本程序
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作本主题时的辅助 `Python` 脚本文件。可快速提取官方 `WeChat` 包里经过解压后的 `Assets` 文件夹的所有文件的图标、文件名、尺寸大小，以及帮助你快速将他人的主题包里使用相同图标但命名不同的文件按照图标和文件名统一分类输出为 `excel` 表。
 
 包含：
