@@ -65,7 +65,7 @@
 # 主题使用说明
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下载主题文件压缩包（里面包含主题文件夹和可供替换的红包转账气泡）。
 1. 确保你已经激活 Themebox 。
-2. 将解压后的主题文件夹“`WeChat-iMessage-Themebox`”内的所有文件和文件夹全选后（不要直接拷贝文件夹）导入你的微信文件夹中`“themebox-diy-官方主题文件夹”`里。
+2. 将解压后的主题文件夹“`WeChat-iMessage-Themebox`”内的所有文件和文件夹全选后（不要直接拷贝文件夹）导入你的`微信文件夹`中的“`themebox`-`diy`-`官方主题文件夹`”里。
 3. 建议前往 `微信` - `设置` - `通用` - `字体大小` 为 `标准以下`。并将 `Themebox` 中按照如下设置以达到主题显示最佳适配效果 ：
 <img src="png/主题盒子设置.png" alt="主题盒子设置" width="450" height="auto">
 4. 设置完成后，重启微信，以使主题生效。
