@@ -1,6 +1,6 @@
 {
-    "name":"iMessage优化适配版",
-    "auth":"AidenYang(优化适配)",
-    "version":"2.0",
-    "tabbar_hide_title":"true"
+    "name": "类iMessage优化适配",
+    "auth": "AidenYang(Github同步更新)",
+    "version": "1.0",
+    "tabbar_hide_title": "true"
 }
