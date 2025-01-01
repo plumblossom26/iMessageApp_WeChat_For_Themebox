@@ -5,7 +5,7 @@
     <color name="BG_1">#F7F7F7,#1E1E1E</color>
     <color name="BG_2">#FFFFFF,#191919</color>
     <color name="BG_3">#F7F7F7,#202020</color>
-    <color name="BG_4">#4C4C4C,#404040</color>
+    <color name="BG_4">#4C4C4C,#000000</color>
     <color name="BG_5">#FFFFFF,#2C2C2C</color>
     <color name="Blue_100">#10AEFF,#10AEFF</color>
     <color name="Blue_120">#3FBEFF,#0C8BCC</color>
@@ -21,7 +21,7 @@
     <color name="Brand_170">#B4ECCE,#023A1C</color>
     <color name="Brand_80">#059A4C,#38CD7F</color>
     <color name="Brand_90">#06AE56,#20C770</color>
-    <color name="Brand_BG_100">#BBD2FC,#99BBFA</color>
+    <color name="Brand_BG_100">#1586F9,#1586F9</color>
     <color name="Brand_BG_110">#3EB575,#259C5C</color>
     <color name="Brand_BG_130">#69C694,#1D7A48</color>
     <color name="Brand_BG_90">#259C5C,#3EB575</color>
@@ -127,8 +127,8 @@
     <color name="Orange" cname="Orange_100">#FA9D3B,#C87D2F</color>
     <color name="Yellow" cname="Yellow_100">#FFC300,#CC9C00</color>
     <color name="Green" cname="Green_100">#91D300,#74A800</color>
-    <color name="LightGreen" cname="LightGreen_100">#95EC69,#3EB575</color>
-    <color name="Brand" cname="Brand_100">#07C160,#07C160</color>
+    <color name="LightGreen" cname="LightGreen_100">#1586F9,#1586F9</color>
+    <color name="Brand" cname="Brand_100">#1779F9,#1779F9</color>
     <color name="LiveBrand" cname="OrangeRed_100">#FF6146,#FF6146</color>
     <color name="LiveBrand_170" cname="OrangeRed_100">#FF6146,#FF6146</color>
     <color name="LiveBrand_120" cname="OrangeRed_100">#FF6146,#FF6146</color>
