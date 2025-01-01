@@ -72,8 +72,9 @@
 4. 使用插件开启`全局圆角！全局圆角！全局圆角！！！`否则图标尺寸显示不佳。（所有适配基于圆角模式下优化）。<br>并将 `Themebox` 按照如下设置`消息字体颜色`、`布局`以达到主题显示最佳适配效果 ：
 <img src="png/主题盒子设置说明.png" alt="主题盒子设置" >
 5. 设置完成后，重启微信，以使主题生效。
+<br><br>
 
-
+更多详细使用答疑，请查看[主题问题答疑 - Wiki](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/wiki/%E4%B8%BB%E9%A2%98%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91)
 
 
  <br><br><br>
