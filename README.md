@@ -96,7 +96,15 @@
 <br> <img src="png/HB02.png" alt="MESH卡" width="260" height="auto">
 - ✅ 渐变黑色简约卡包
 <br> <img src="png/HB03.png" alt="渐变黑色简约" width="260" height="auto">
-- [ ] 2025 年春节蛇年封面
+- ✅ `AppleCash`支付封面
+<br> <img src="png/HB04.png" alt="`AppleCash`支付封面" width="260" height="auto">
+- ✅ 2025`Mastercard`中国红封面
+<br> <img src="png/HB05.png" alt="2025`Mastercard`中国红封面" width="260" height="auto">
+- ✅ `Visa`紫卡
+<br> <img src="png/HB06.png" alt="`Visa`紫卡" width="260" height="auto">
+- ✅ `Visa`黑色VIP卡
+<br> <img src="png/HB07.png" alt="`Visa`黑色VIP卡" width="260" height="auto">
+- [ ] 2025 年农历春节蛇年封面
 
 
 <br><br><br>
