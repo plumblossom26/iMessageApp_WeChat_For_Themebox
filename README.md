@@ -76,7 +76,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下载主题文件压缩包（里面包含主题文件夹和可供替换的红包转账气泡）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下载[最新主题文件](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)压缩包（里面包含主题文件夹和可供替换的红包转账气泡）。
 1. 确保你已经激活 Themebox 。
 2. 将解压后的主题文件夹“`WeChat-iMessage-Themebox`”内的所有文件和文件夹全选后（不要直接拷贝文件夹）导入你的`微信文件夹`中的“`themebox`-`diy`-`官方主题文件夹（一定要是官方主题）`”里。
 3. 建议前往 `微信` - `设置` - `通用` - `字体大小` 将字体大小设置为 `标准以下`。
