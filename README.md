@@ -85,7 +85,7 @@
 5. 设置完成后，重启微信，以使主题生效。
 <br><br>
 
-更多详细使用指南、答疑，请查看[本主题唯一Wiki指南和答疑 - Wiki]([https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/wiki/%E4%B8%BB%E9%A2%98%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/wiki/(%E6%9C%80%E6%96%B0)%E6%9C%AC%E4%B8%BB%E9%A2%98%E2%80%9C%E5%94%AF%E4%B8%80%E2%80%9D%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E5%8F%8A%E7%AD%94%E7%96%91))
+更多详细使用指南、答疑，请查看[本主题唯一Wiki指南和答疑 - Wiki](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/wiki/(%E6%9C%80%E6%96%B0)%E6%9C%AC%E4%B8%BB%E9%A2%98%E2%80%9C%E5%94%AF%E4%B8%80%E2%80%9D%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E5%8F%8A%E7%AD%94%E7%96%91)
 <br>
 
 
