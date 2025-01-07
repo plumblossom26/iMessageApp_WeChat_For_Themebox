@@ -1,5 +1,9 @@
-# [（新）这有个主题适配文档子项目，欢迎来合作完成👏🏻](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)
+# [（新）这有个《主题适配经验指南》子项目，包含图标命名统计、制作经验等。欢迎来合作完成👏🏻](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)
 
+<br>
+
+> 【更新】📢本项目唯一通知频道：https://t.me/+D2y5GDOB8F41YmRl
+> 
 <br>
 
 # 简介
