@@ -20,7 +20,7 @@
     <color name="Brand_120">#38CD7F,#059A4C</color>
     <color name="Brand_170">#B4ECCE,#023A1C</color>
     <color name="Brand_80">#059A4C,#38CD7F</color>
-    <color name="Brand_90">#06AE56,#20C770</color>
+    <color name="Brand_90">#1779F9,#1779F9</color>
     <color name="Brand_BG_100">#1586F9,#1586F9</color>
     <color name="Brand_BG_110">#3EB575,#259C5C</color>
     <color name="Brand_BG_130">#69C694,#1D7A48</color>
@@ -123,7 +123,7 @@
     <color name="Yellow_BG_110">#F0BD19,#AB8200</color>
     <color name="Yellow_BG_130">#F3CC4D,#866500</color>
     <color name="Yellow_BG_90">#D7A400,#C59C1A</color>
-    <color name="Red" cname="Red_100">#FA5151,#FA5151</color>
+    <color name="Red" cname="Red_100">#1779F9,#1779F9</color>
     <color name="Orange" cname="Orange_100">#FA9D3B,#C87D2F</color>
     <color name="Yellow" cname="Yellow_100">#FFC300,#CC9C00</color>
     <color name="Green" cname="Green_100">#91D300,#74A800</color>
