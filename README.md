@@ -27,8 +27,8 @@
    <br><br><br>
   
 # 必看说明
-- 基于 `Themebox(兼容1.0.5以上）` 主题盒子插件和微信 `8.0.54` `8.0.55` 版本适配。（其他主题插件、微信版本使用不保证兼容性，请自行调整优化）
-- DIY目前只适配主题盒子“`官方测试原生主题`”，上线版关注兑换码发放。
+- 基于 `Themebox(兼容1.1.1以上）` 主题盒子插件和微信 `8.0.54` `8.0.55` `8.0.56` 版本适配。（其他主题插件、微信版本使用不保证兼容性，请自行调整优化）
+- DIY可使用`任意其他作者主题`，但推荐使用“`官方测试原生主题`”，上线版关注兑换码发放。
 - 基于 `Apple Developer` 官方系统图标库制作。
 - `Sketch` 项目工程文件内素材命名可能会随着 ` 主题插件 ` 和 ` WeChat ` 版本更新而变化。(会第一时间更新和完善。也欢迎主动提 ` issue `。)
 - 免费分享，禁止二次打包售卖。
@@ -80,14 +80,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下载[最新主题文件](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)压缩包（里面包含主题文件夹和可供替换的红包转账气泡）。
 1. 确保你已经激活 Themebox 。
-2. 将解压后的主题文件夹“`WeChat-iMessage-Themebox`”内的所有文件和文件夹全选后（不要直接拷贝文件夹）导入你的`微信文件夹`中的“`themebox`-`diy`-`官方主题文件夹（一定要是官方主题）`”里。
+2. 将解压后的主题文件夹“`WeChat-iMessage-Themebox`”内的所有文件和文件夹全选后（不要直接拷贝文件夹）导入你的`微信文件夹`中的“`themebox`-`diy`-`其他主题`”里。
 3. 建议前往 `微信` - `设置` - `通用` - `字体大小` 将字体大小设置为 `标准以下`。
 4. 使用插件开启`全局圆角！全局圆角！全局圆角！！！`否则图标尺寸显示不佳。（所有适配基于圆角模式下优化）。<br>并将 `Themebox` 按照如下设置`消息字体颜色`、`布局`以达到主题显示最佳适配效果 ：
 <img src="png/主题盒子设置说明.png" alt="主题盒子设置" >
 5. 设置完成后，重启微信，以使主题生效。
 <br><br>
 
-更多详细使用指南、答疑，请查看[本主题唯一Wiki指南和答疑 - Wiki](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/wiki/%E3%80%90%E6%9C%80%E6%96%B0%E3%80%91%E6%9C%AC%E4%B8%BB%E9%A2%98%E2%80%9C%E5%94%AF%E4%B8%80%E2%80%9D%E3%80%8A%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E5%8F%8A%E7%AD%94%E7%96%91%E3%80%8B)
+更多详细使用指南、答疑，请查看[本主题唯一使用指南和答疑 - Web](https://www.imtheme.site/guide)
 <br>
 
 
@@ -114,6 +114,8 @@
 <br> <img src="png/HB06.png" alt="`Visa`紫卡" width="260" height="auto">
 - ✅ `Visa`黑色VIP卡
 <br> <img src="png/HB07.png" alt="`Visa`黑色VIP卡" width="260" height="auto">
+- ✅ `《童年回忆》`系列
+<br> <img src="png/HB08.png" alt="《童年回忆系列》" width="260" height="auto">
 - [ ] 2025 年农历春节蛇年封面
 
 
