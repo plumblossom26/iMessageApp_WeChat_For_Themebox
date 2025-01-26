@@ -1,7 +1,7 @@
 {
     "name": "iMessage_For_WeChat",
     "auth": "AidenYang(Github同步更新)",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "bubble_edge": "18*18*18*18",
     "hongbao_text_color": "FFFFFF",
     "hongbao_text_color_Dark": "FFFFFF",
