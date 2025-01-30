@@ -116,7 +116,10 @@
 <br> <img src="png/HB07.png" alt="`Visa`黑色VIP卡" width="260" height="auto">
 - ✅ `《童年回忆》`系列
 <br> <img src="png/HB08.png" alt="《童年回忆系列》" width="260" height="auto">
-- [ ] 2025 年农历春节蛇年封面
+- ✅ `《开发者》`系列
+<br> <img src="png/HB09.png" alt="《开发者系列》" width="260" height="auto">
+- ✅ 2025 年农历春节蛇年卡面
+<br> <img src="png/HB10.png" alt="《农历蛇年系列》" width="260" height="auto">
 
 
 <br><br><br>
