@@ -1,7 +1,9 @@
 # [（新）这有个《主题适配经验指南》衍生项目，包含图标命名统计、制作经验等。欢迎来合作完成👏🏻](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)
 
 <br>
+  
 # 项目使用“CC BY-NC（署名-非商业性）”许可证，不可将本项目素材二次编辑、修改后出售。
+
 <br>
 
 > 【更新】📢本项目唯一通知频道：https://t.me/+D2y5GDOB8F41YmRl
