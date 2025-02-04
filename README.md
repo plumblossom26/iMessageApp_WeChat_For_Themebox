@@ -1,4 +1,7 @@
-# [（新）这有个《主题适配经验指南》衍生项目，包含图标命名统计、制作经验等。欢迎来合作完成👏🏻](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)
+# [（更）开源版本体已归档于v1.2.3。覆盖率75%。后续更新请参照《主题适配经验指南》自行更新适配。卡组更新继续。](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)
+
+<br>
+  
 
 <br>
 
@@ -116,7 +119,10 @@
 <br> <img src="png/HB07.png" alt="`Visa`黑色VIP卡" width="260" height="auto">
 - ✅ `《童年回忆》`系列
 <br> <img src="png/HB08.png" alt="《童年回忆系列》" width="260" height="auto">
-- [ ] 2025 年农历春节蛇年封面
+- ✅ `《开发者》`系列
+<br> <img src="png/HB09.png" alt="《开发者系列》" width="260" height="auto">
+- ✅ 2025 年农历春节蛇年卡面
+<br> <img src="png/HB10.png" alt="《农历蛇年系列》" width="260" height="auto">
 
 
 <br><br><br>
