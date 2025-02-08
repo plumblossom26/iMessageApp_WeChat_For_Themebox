@@ -19,6 +19,9 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+
+.vscode/**
+
 (归档分支)WeChat-iMessage-Themebox_8.0.54/**
 WeChat-iMessage-Themebox/**
 其他/**
