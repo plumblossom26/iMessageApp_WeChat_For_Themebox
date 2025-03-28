@@ -1,4 +1,4 @@
-# 原作开源版不继续适配只更新卡组了，盒子封包版本68自行购买。闲着没事整理着玩。(https://github.com/plumblossom26/iMessageApp_WeChat_For_Themebox/)
+# [原作开源版不继续适配只更新卡组了，盒子封包版本68自行购买。闲着没事整理着玩。](https://github.com/plumblossom26/iMessageApp_WeChat_For_Themebox/)
 
 
 <br>
@@ -6,9 +6,9 @@
 
 <br>
 
-> 【更新】📢本项目唯一通知频道：没有，随便玩玩，啥也不会。
+> 【更新】啥也不会，看到了闲着没事，整理自用。
 >
-> 【原版】📢原项目地址(https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox/)
+> 【原地址】https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox/
 > 
 <br>
 
